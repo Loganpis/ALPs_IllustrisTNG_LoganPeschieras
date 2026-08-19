@@ -1,0 +1,12 @@
+,count
+tng_sightline_attempts,500
+tng_invalid_probability,0
+tng_fit_rejections,0
+grf_invalid_probability,0
+grf_fit_rejections,0
+incomplete_grf_pairs,0
+cutout_load_failures,0
+tng_fit_diagnostic_flags,12
+grf_fit_diagnostic_flags,418
+tng_fit_evaluations,500
+grf_fit_evaluations,22500
